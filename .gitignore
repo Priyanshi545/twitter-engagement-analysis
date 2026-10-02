@@ -1,0 +1,82 @@
+# ==============================
+# Twitter Analytics Project
+# ==============================
+
+# Keep these files tracked:
+# README.md
+# *.pbix
+
+# ==============================
+# Raw / Local Data
+# ==============================
+
+data/raw/
+data/private/
+data/temp/
+
+# Local datasets
+*.csv
+*.xlsx
+*.xls
+
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+
+venv/
+env/
+.venv/
+myenv/
+
+.ipynb_checkpoints/
+
+# ==============================
+# Environment & Secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+credentials.json
+secrets.json
+*.key
+*.pem
+
+# ==============================
+# IDE / Editor
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+# Operating System
+# ==============================
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ==============================
+# Logs & Temporary Files
+# ==============================
+
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+~$*
+
+# ==============================
+# Power BI Temporary Files
+# ==============================
+
+*.pbix~
+AutoRecovery/
+Temp/
+.cache/
