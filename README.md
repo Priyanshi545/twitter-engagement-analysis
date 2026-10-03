@@ -34,6 +34,24 @@ The analysis was performed using the supplied Twitter/X analytical
 dataset, while Power BI, Power Query, and DAX
 were used to build the final interactive dashboard.
 
+## 📊 Power BI Dashboard
+
+### Page 1 — Overview & KPI Analysis
+
+![Twitter/X Dashboard — Page 1](powerbi/screenshots/Dashboard1.png)
+
+### Page 2 — Engagement & Content Performance
+
+![Twitter/X Dashboard — Page 2](powerbi/screenshots/Dashboard2.png)
+
+### Page 3 — Detailed Engagement Analysis
+
+![Twitter/X Dashboard — Page 3](powerbi/screenshots/Dashboard3.png)
+
+### Page 4 — Time & Performance Analysis
+
+![Twitter/X Dashboard — Page 4](powerbi/screenshots/Dashboard4.png)
+
 🎯 Project Objectives
 
 Measure overall Twitter/X publishing activity.
